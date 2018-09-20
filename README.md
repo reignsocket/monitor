@@ -13,6 +13,9 @@ Input sample
 
 Output sample  
 ![](https://github.com/reignsocket/monitor/blob/master/show.png)
-  
+
+Problem solving  
+A digital display unit on a calculator that can be thought of as consisting of the following 7 strokes numbered from 1 to 7:
+
 
 
