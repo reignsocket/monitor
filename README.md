@@ -12,7 +12,7 @@ Input sample
 0 0  
 
 Output sample  
-
+![](https://github.com/reignsocket/monitor/blob/master/show.png)
   
 
 
